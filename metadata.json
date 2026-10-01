@@ -1,0 +1,6 @@
+{
+  "name": "Mt. Carmel Sauna",
+  "description": "An Oasis of Renewal - Herbal sauna sessions, therapeutic massage, online booking, and management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
